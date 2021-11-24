@@ -23,6 +23,7 @@ Reference material for a register and login application using Spring Security an
   - Because of this, the application will either need to be run using the "start.bat" file in the repository, or the JVM arguments will need to be configured.
     
 ### API Endpoints
+##### - [Swagger UI Available when running application: click here](http://localhost:8080/swagger-ui.html)
 ##### Sign In 
 - `/authn/signin`
 - POST
